@@ -1,0 +1,5 @@
+{
+  "name": "PolicyAI: Smart Document Analyzer",
+  "description": "An intelligent system that processes natural language queries to retrieve and evaluate information from large unstructured documents like policy manuals, returning structured decisions with justifications.",
+  "requestFramePermissions": []
+}
