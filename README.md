@@ -1,5 +1,3 @@
-
-````md
 # 🧠 Policy AI
 
 **Policy AI** is a smart assistant that helps users analyze and extract insights from insurance policy documents using powerful language models.
