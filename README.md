@@ -1,6 +1,3 @@
-Here’s a **clean, professional, and engaging README.md** for your project **Policy AI** based on your provided details:
-
----
 
 ````md
 # 🧠 Policy AI
